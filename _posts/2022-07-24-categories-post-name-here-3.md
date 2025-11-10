@@ -5,7 +5,7 @@ excerpt: "본문의 주요 내용을 여기에 입력하세요"
 categories:
   - Categories3
 tags:
-  - [tag1, tag2]
+  - [뭐지, 태그는]
 
 permalink: /categories3/post-name-here-3/
 
